@@ -32,3 +32,32 @@ box-sizing: border-box;
 .roxo {
     background-color: blueviolet;
 }
+
+.semaforo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    gap:30px;
+}
+
+.sinal{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.verde {
+    background-color: green;
+}
+  
+
