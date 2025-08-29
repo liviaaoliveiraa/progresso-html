@@ -10,3 +10,25 @@ box-sizing: border-box;
     background-color: rgb(101, 195, 238);
     margin:50px auto;
 }
+
+.container {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 20px;
+    
+}
+
+.quadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.verde {
+    background-color: rgb(73, 165, 114);
+}
+
+.roxo {
+    background-color: blueviolet;
+}
