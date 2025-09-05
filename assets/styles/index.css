@@ -6,6 +6,19 @@
     box-sizing: border-box;
 }
 
+.navegacao {
+    text-decoration: none;
+    color:rgb(97, 150, 199);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    margin: 20px;
+    border: 2px solid rgb(124, 211, 238);
+    border-radius: 25px;
+    display: inline-block;
+    transition: all 0.5s ease;
+}
+
 body {
     font-family: Embed code;
     padding: 20px;
@@ -39,7 +52,7 @@ h2{
     width: 80px;
     height: 80px;
     background-color: rgb(117, 188, 221);
-    border: 2px solid rgb(88, 120, 161);
+    border: 2px solid rgb(95, 124, 163);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,3 +75,4 @@ h2{
 .justify-around {
     justify-content: space-around;
 }
+

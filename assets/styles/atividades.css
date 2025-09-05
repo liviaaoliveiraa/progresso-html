@@ -39,25 +39,24 @@ box-sizing: border-box;
     align-items: center;
     justify-content: center;
     height: 600px;
-    gap:30px;
+    gap: 30px;
 }
 
-.sinal{
+.sinal {
     width: 100px;
     height: 100px;
     border-radius: 50%;
 }
 
-.vermelho {
-    background-color: red;
+.verde {
+    background-color: rgb(31, 223, 72);
 }
 
-.amarelo{
+.amarelo {
     background-color: yellow;
 }
 
-.verde {
-    background-color: green;
+.vermelho {
+    background-color: rgb(243, 10, 10);
 }
-  
 
