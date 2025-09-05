@@ -40,6 +40,10 @@ box-sizing: border-box;
     justify-content: center;
     height: 600px;
     gap: 30px;
+    background-color: rgb(44, 41, 41);
+    width: 220px;
+    border-radius: 25px;
+    margin: 0 auto 30px;
 }
 
 .sinal {
